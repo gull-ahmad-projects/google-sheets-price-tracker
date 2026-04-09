@@ -44,4 +44,4 @@ This bot automates the entire workflow:
 
 > 🚀 Automated Google Sheet Price Updates in Action
 
-![Google Sheets Price Tracker Demo](images/new1.PNG)
+![Google Sheets Price Tracker Demo](new1.PNG)
